@@ -41,15 +41,15 @@
     <string name="study_words_with_avocards">ادرس مع افوكاردس</string>
     <string name="receive_a_list_of_cards">تلقي قائمة بطاقات الكلمات التعليمية</string>
     <string name="classify_a_card">صنف البطاقة إلى 1 من 4 خطوات</string>
-    <string name="check_the_representation">Check the representation of your memory</string>
-    <string name="how_much_korean_do_you_know">How much Korean do you know?</string>
-    <string name="how_many_words_do_you_want_to_study_each_day">How many words do you want to study each day?</string>
-
+    <string name="check_the_representation">تحقق من تمثيل الذاكرة الخاصة بك</string>
+    <string name="how_much_korean_do_you_know">كم تعرف من اللغة الكورية ؟</string>
+    <string name="how_many_words_do_you_want_to_study_each_day">كم عدد الكلمات التي تريد أن تدرسها كل يوم ؟</string>
+    
     <!-- Get Started View -->
-    <string name="start">Start</string>
-    <string name="get_started">Get Started</string>
-    <string name="already_a_member">Already a member? <u>Log in</u></string>
-
+    <string name="start">بداية</string>
+    <string name="get_started">ابدأ</string>
+    <string name="already_a_member">هل لديك حساب بالفعل ؟ سجل الدخول</string>
+    
     <!-- Login View -->
     <string name="email_address">Email address</string>
     <string name="password">Password</string>
