@@ -11,8 +11,8 @@
     <string name="we_sent_mail">لقد أرسلنا لك رسالة بالبريد الإلكتروني.  اضغط على الرابط الموجود في تلك الرسالة الإلكترونية لإعادة تعيين كلمة المرور الخاصة بك</string>
     <string name="press_back_exit">اضغط مرة أخرى للخروج من التطبيق</string>
     <string name="dark_mode">Dark mode</string>
-    <string name="refresh">Refresh</string>
-    <string name="restart">Restart</string>
+    <string name="refresh">تحديث</string>
+    <string name="restart">أعاد التشغيل</string>
     <string name="back">Back</string>
     <string name="forget">Forget</string>
     <string name="loading">Loading…</string>
