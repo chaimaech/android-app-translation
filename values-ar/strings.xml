@@ -13,32 +13,32 @@
     <string name="dark_mode">Dark mode</string>
     <string name="refresh">تحديث</string>
     <string name="restart">أعاد التشغيل</string>
-    <string name="back">Back</string>
-    <string name="forget">Forget</string>
-    <string name="loading">Loading…</string>
-    <string name="conti">Continue</string>
-    <string name="skip">Skip</string>
-    <string name="next">Next</string>
+    <string name="back">رجوع</string>
+    <string name="forget">انسى</string>
+    <string name="loading">.. تحميل</string>
+    <string name="conti">واصل</string>
+    <string name="skip">تخطى</string>
+    <string name="next">التالي</string>
 
     <!-- Screen titles -->
-    <string name="title_settings">Settings</string>
-    <string name="title_sound">Sound</string>
-    <string name="title_notification">Notifications</string>
-    <string name="title_reset">Reset Password</string>
-    <string name="title_review">Review</string>
+    <string name="title_settings">إعدادات</string>
+    <string name="title_sound">صوت</string>
+    <string name="title_notification">إشعارات</string>
+    <string name="title_reset">إعادة تعيين كلمة المرور</string>
+    <string name="title_review">مراجعة</string>
     <string name="title_upgrade">Avocards pro</string>
 
     <!-- Navigation menu -->
-    <string name="menu_cards">Cards</string>
-    <string name="menu_my_voc">My Vocabulary</string>
-    <string name="menu_snapshot">Snapshot</string>
-    <string name="menu_settings">Settings</string>
-    <string name="menu_test">Test your Korean</string>
-    <string name="menu_categories">Categories</string>
-    <string name="menu_review">Review session</string>
+    <string name="menu_cards">بطاقات</string>
+    <string name="menu_my_voc">مفرداتي</string>
+    <string name="menu_snapshot">لقطة</string>
+    <string name="menu_settings">إعدادات</string>
+    <string name="menu_test">اختبر مستواك في اللغة الكورية</string>
+    <string name="menu_categories">فئات</string>
+    <string name="menu_review">حصة المراجعة</string>
 
     <!-- On Boarding Screens -->
-    <string name="study_words_with_avocards">Study words with\nAvocards</string>
+    <string name="study_words_with_avocards">ادرس مع\nافوكاردس</string>
     <string name="receive_a_list_of_cards">Receive a list of\nword cards</string>
     <string name="classify_a_card">Classify the card into\n 1 of 4 steps</string>
     <string name="check_the_representation">Check the representation of your memory</string>
