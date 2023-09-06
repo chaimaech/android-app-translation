@@ -2,14 +2,14 @@
     <!-- TRANSLATE -->
 
     <!-- Generic -->
-    <string name="cancel">Cancel</string>
-    <string name="ok">OK</string>
-    <string name="apply">Apply</string>
-    <string name="yes">YES</string>
-    <string name="no">NO</string>
-    <string name="mail">You\'ve got mail</string>
-    <string name="we_sent_mail">We sent you an email. Tap the link in that email to reset your password.</string>
-    <string name="press_back_exit">Press back again to exit the app</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">حسنا</string>
+    <string name="apply">طبق</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="mail">لديك رسالة إلكترونية</string>
+    <string name="we_sent_mail">لقد أرسلنا لك رسالة بالبريد الإلكتروني.  اضغط على الرابط الموجود في تلك الرسالة الإلكترونية لإعادة تعيين كلمة المرور الخاصة بك</string>
+    <string name="press_back_exit">اضغط مرة أخرى للخروج من التطبيق</string>
     <string name="dark_mode">Dark mode</string>
     <string name="refresh">Refresh</string>
     <string name="restart">Restart</string>
