@@ -38,9 +38,9 @@
     <string name="menu_review">حصة المراجعة</string>
 
     <!-- On Boarding Screens -->
-    <string name="study_words_with_avocards">ادرس مع\nافوكاردس</string>
-    <string name="receive_a_list_of_cards">Receive a list of\nword cards</string>
-    <string name="classify_a_card">Classify the card into\n 1 of 4 steps</string>
+    <string name="study_words_with_avocards">ادرس مع افوكاردس</string>
+    <string name="receive_a_list_of_cards">تلقي قائمة بطاقات الكلمات التعليمية</string>
+    <string name="classify_a_card">صنف البطاقة إلى 1 من 4 خطوات</string>
     <string name="check_the_representation">Check the representation of your memory</string>
     <string name="how_much_korean_do_you_know">How much Korean do you know?</string>
     <string name="how_many_words_do_you_want_to_study_each_day">How many words do you want to study each day?</string>
